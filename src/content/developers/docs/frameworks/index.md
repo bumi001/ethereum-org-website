@@ -114,6 +114,14 @@ Before diving into frameworks, we recommend you first read through our introduct
 - [Community Forum](https://forum.openzeppelin.com/c/support/17)
 - **OpenZeppelin SDK development has ended**
 
+**Web3 Sveltekit Bundle -** **_Full 3stack -frontend, traditional webserver backend and blockchain backend- development using some of the most exciting tools._**
+- Mono repo using pnpm
+- Foundry for blockchain development
+- Sveltekit for universal/isomorphic web development
+- Develop using Solidity and typescript
+- Easy installation and integration from one project
+- [Web3 Sveltekit Bundle](https://github.com/bumi001/web3-sveltekit-bundle)
+
 ## Further reading {#further-reading}
 
 _Know of a community resource that helped you? Edit this page and add it!_
